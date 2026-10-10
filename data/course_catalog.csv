@@ -1,0 +1,354 @@
+id,title,provider,url
+1,Generative AI for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-for-beginners-free-course-skillup
+2,YUVA AI for All,Simplilearn SkillUp,https://www.simplilearn.com/yuvai-free-course-skillup
+3,AI Agents for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/ai-agents-for-beginners-course-skillup
+4,RAG Course for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/rag-course-for-beginners-skillup
+5,Hugging Face Projects,Simplilearn SkillUp,https://www.simplilearn.com/free-hugging-face-nlp-projects-course-skillup
+6,n8n: No Code AI Agent Builder,Simplilearn SkillUp,https://www.simplilearn.com/free-n8n-no-code-ai-agent-builder-course-skillup
+7,Sora AI for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/sora-ai-course-skillup
+8,Langchain Course for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/langchain-course-for-beginners-skillup
+9,Mistral AI for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/free-mistral-ai-course-skillup
+10,Prompt Engineering Applications,Simplilearn SkillUp,https://www.simplilearn.com/prompt-engineering-applications-course-skillup
+11,Gemini for Google Workspace,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-for-google-workspace-course-skillup
+12,Introduction to Prompt Engineering with GitHub Copilot,Simplilearn SkillUp,https://www.simplilearn.com/free-copilot-prompt-engineering-course-skillup
+13,Build Website With AI,Simplilearn SkillUp,https://www.simplilearn.com/build-website-with-ai-course-skillup
+14,Introduction to Web Development with ChatGPT,Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-website-creation-course-skillup
+15,Introduction to Prompt Engineering Fundamentals,Simplilearn SkillUp,https://www.simplilearn.com/prompt-engineering-free-course-skillup
+16,Introduction to Google Gemini,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-ai-course-skillup
+17,Introduction to Google Workspace with Gemini,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-google-workspace-course-skillup
+18,Gemini in Google Slides,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-google-slides-course-skillup
+19,Gemini in Google Sheets,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-google-sheets-course-skillup
+20,Gemini in Google Meet,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-google-meet-course-skillup
+21,Gemini in Google Docs,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-google-docs-course-skillup
+22,Gemini in Gmail,Simplilearn SkillUp,https://www.simplilearn.com/free-gemini-in-gmail-course-skillup
+23,Introduction to Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-course-skillup
+24,ChatGPT for Youtube Video Creation,Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-for-youtube-course-skillup
+25,ChatGPT for Python,Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-for-python-course-skillup
+26,ChatGPT for Data Analytics,Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-for-data-analytics-course-skillup
+27,Introduction to Responsible AI,Simplilearn SkillUp,https://www.simplilearn.com/free-responsible-ai-course-skillup
+28,ChatGPT Advanced Course,Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-advanced-course-skillup
+29,Responsible AI: Applying AI Principles with Google Cloud,Simplilearn SkillUp,https://www.simplilearn.com/free-google-cloud-responsible-ai-course-skillup
+30,Introduction to Generative AI Studio,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-studio-course-skillup
+31,Copilot Foundations,Simplilearn SkillUp,https://www.simplilearn.com/copilot-foundations-course-skillup
+32,Microsoft Copilot Studio,Simplilearn SkillUp,https://www.simplilearn.com/free-copilot-studio-course-skillup
+33,GitHub Copilot Fundamentals,Simplilearn SkillUp,https://www.simplilearn.com/github-copilot-fundamentals-course-skillup
+34,Introduction to Copilot for Startups,Simplilearn SkillUp,https://www.simplilearn.com/free-copilot-for-startups-course-skillup
+35,ChatGPT for Customer Support,Simplilearn SkillUp,https://www.simplilearn.com/chatgpt-for-customer-support-course-skillup
+36,ChatGPT for Finance,Simplilearn SkillUp,https://www.simplilearn.com/chatgpt-for-finance-course-skillup
+37,Build AI Agents using LangGraph,Simplilearn SkillUp,https://www.simplilearn.com/ai-agents-in-langgraph-course-skillup
+38,Knowledge Graphs with LLMs,Simplilearn SkillUp,https://www.simplilearn.com/knowledge-graphs-with-llms-course-skillup
+39,ChatGPT for Project Management,Simplilearn SkillUp,https://www.simplilearn.com/chatgpt-for-project-management-course-skillup
+40,Generative AI Fundamentals,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-fundamentals-course-skillup
+41,Introduction to LSTM,Simplilearn SkillUp,https://www.simplilearn.com/free-ltsm-course-skillup
+42,Introduction to LangGraph,Simplilearn SkillUp,https://www.simplilearn.com/free-langgraph-course-skillup
+43,Optimizers in Neural Network,Simplilearn SkillUp,https://www.simplilearn.com/free-optimizers-in-neural-networks-course-skillup
+44,Introduction to DeepSeek and Qwen,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-deepseek-r1-and-qwen-course-skillup
+45,Get Started with Databricks for Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/databricks-for-generative-ai-course-skillup
+46,Prompt Engineering with ChatGPT,Simplilearn SkillUp,https://www.simplilearn.com/free-prompt-engineering-with-chatgpt-course-skillup
+47,Introduction to Multimodal RAG Systems,Simplilearn SkillUp,https://www.simplilearn.com/free-multimodal-rag-course-skillup
+48,Generative AI for Everyone,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-for-everyone-course-skillup
+49,ChatGPT for Search Engine Optimization (SEO),Simplilearn SkillUp,https://www.simplilearn.com/free-chatgpt-for-seo-course-skillup
+50,Introduction to Adobe Firefly AI,Simplilearn SkillUp,https://www.simplilearn.com/free-adobe-firefly-ai-course-skillup
+51,Advanced RAG Techniques,Simplilearn SkillUp,https://www.simplilearn.com/advanced-rag-techniques-course-skillup
+52,Introduction to Crew AI,Simplilearn SkillUp,https://www.simplilearn.com/free-crew-ai-course-skillup
+53,Introduction to Text to Image AI Generators,Simplilearn SkillUp,https://www.simplilearn.com/free-text-to-image-ai-generators-course-skillup
+54,AI in Email Marketing,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-in-email-marketing-course-skillup
+55,LangChain for LLM App Development,Simplilearn SkillUp,https://www.simplilearn.com/free-langchain-for-llm-app-development-course-skillup
+56,AI in Marketing,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-in-marketing-course-skillup
+57,Generative AI Models for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-models-course-skillup
+58,AI Driven Workflow Optimization,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-workflow-optimization-course-skillup
+59,Software Design using Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-in-software-design-course-skillup
+60,Software Building using Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-in-software-building-course-skillup
+61,Software Testing and Documentation using Gen AI,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-in-software-building-testing-course-skillup
+62,Gen AI Ethical Consideration,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-ethics-course-skillup
+63,Generative AI in SDLC,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-in-sdlc-course-skillup
+64,Project Planning using Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-in-project-planning-course-skillup
+65,Lead Generation with AI,Simplilearn SkillUp,https://www.simplilearn.com/free-lead-generation-with-ai-course-skillup
+66,Introduction to Gen AI Models,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-generative-ai-models-free-course-skillup
+67,Variational Autoencoder and GAN,Simplilearn SkillUp,https://www.simplilearn.com/variational-autoencoders-free-course-skillup
+68,Introduction to Advanced Gen AI Tools,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-tools-course-skillup
+69,Code Generation with Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-for-code-generation-skillup
+70,Generative AI Software Development,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-software-development-skillup
+71,Ethical Generative AI in Software Engineering,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-in-software-engineering-skillup
+72,Software Testing with Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/software-testing-with-generative-ai-skillup
+73,Reflection Agents in AI,Simplilearn SkillUp,https://www.simplilearn.com/free-reflection-agents-in-ai-course-skillup
+74,GraphRAG for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/free-graphrag-course-skillup
+75,Multi-Modal LLMs for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/free-multimodal-llm-course-skillup
+76,Building Agentic RAG with LlamaIndex,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-using-llamaindex-course-skillup
+77,Free AI Video Generation Course,Simplilearn SkillUp,https://www.simplilearn.com/make-free-ai-video-skillup
+78,AI Agent Frameworks,Simplilearn SkillUp,https://www.simplilearn.com/ai-agent-frameworks-skillup
+79,Build Reliable Agentic AI Applications,Simplilearn SkillUp,https://www.simplilearn.com/build-agentic-ai-skillup
+80,Enhancing Customer Service with Gen AI,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-in-customer-service-course-skillup
+81,Product & Research with Generative AI,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-product-design-course-skillup
+82,AI for Coding using Tabnine,Simplilearn SkillUp,https://www.simplilearn.com/ai-for-coding-using-tabnine-skillup
+83,Generative AI for Data Analytics,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-for-data-analytics-free-course-skillup
+84,AI Image Creation with Microsoft Designer,Simplilearn SkillUp,https://www.simplilearn.com/free-microsoft-designer-course-skillup
+85,Generative AI for Marketers Course,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai--for-marketers-course-skillup
+86,Generative AI in Design,Simplilearn SkillUp,https://www.simplilearn.com/free-generative-ai-design-course-skillup
+87,Advanced Prompt Engineering,Simplilearn SkillUp,https://www.simplilearn.com/advanced-prompt-engineering-for-everyone-skillup
+88,LLM Prompting with Gemini,Simplilearn SkillUp,https://www.simplilearn.com/llm-prompting-with-gemini-course-skillup
+89,Chatbot Development: Chatbot Creation with ChatGPT,Simplilearn SkillUp,https://www.simplilearn.com/chatbot-development-free-certification-course-skillup
+90,GenAI Code Generation with GitHub Copilot in JavaScript,Simplilearn SkillUp,https://www.simplilearn.com/genai-code-generation-with-github-copilot-in-javascript-skillup
+91,Learn to Build AI Agents with AutoGen,Simplilearn SkillUp,https://www.simplilearn.com/build-ai-agents-with-autogen-skillup
+92,Free Workflow Automation Course with LangGraph Agents,Simplilearn SkillUp,https://www.simplilearn.com/free-workflow-automation-course-with-langgraph-agents-skillup
+93,Introduction to Agentic AI & LLM Architectures,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-agentic-ai-and-llm-architectures-skillup
+94,Free Microsoft 365 Copilot Course for Finance,Simplilearn SkillUp,https://www.simplilearn.com/free-microsoft-365-copilot-course-for-finance-skillup
+95,Learn Google Gemini Course for Beginners [2026],Simplilearn SkillUp,https://www.simplilearn.com/google-gemini-course-for-beginners-skillup
+96,Free Microsoft 365 Copilot Training for HR Professionals,Simplilearn SkillUp,https://www.simplilearn.com/free-microsoft-365-copilot-training-for-hr-professionals-skillup
+97,Introduction to Generative AI Fundamentals,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-generative-ai-fundamentals-skillup
+98,Deep Learning with Tensorflow and Pytorch Course,Simplilearn SkillUp,https://www.simplilearn.com/deep-learning-with-tensorflow-and-pytorch-course-skillup
+99,GitHub Copilot for Software Deployment in JavaScript,Simplilearn SkillUp,https://www.simplilearn.com/github-copilot-for-software-deployment-in-javascript-skillup
+100,GitHub Copilot for Software Testing in JavaScript,Simplilearn SkillUp,https://www.simplilearn.com/github-copilot-for-software-testing-in-javascript-skillup
+101,Generative AI for Managers Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-for-managers-course-skillup
+102,Microsoft Copilot for Operations Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/microsoft-copilot-for-operations-course-skillup
+103,Microsoft 365 Copilot for Legal Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/microsoft-365-copilot-for-legal-course-skillup
+104,AI and Future Trends Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/ai-and-future-trends-course-skillup
+105,Free Notion AI Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/free-notion-ai-course-skillup
+106,Generative AI with Large Language Models Course,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-with-large-language-models-skillup
+107,Generative AI Content Creation Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-content-creation-course-skillup
+108,Free Claude 101 Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/claude-101-course-skillup
+109,Introduction to Claude Cowork,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-claude-cowork-course-skillup
+110,Free Hugging Face Transformers Course for Generative Tasks,Simplilearn SkillUp,https://www.simplilearn.com/course-on-hugging-face-transformers-skillup
+111,Free AI-Powered Retail Operations & Supply Chain Course,Simplilearn SkillUp,https://www.simplilearn.com/ai-powered-retail-operations-supply-chain-course-skillup
+112,Free Claude AI Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/free-claude-ai-course-skillup
+113,Free Claude AI Course: Sales Email & Outreach Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-sales-email-outreach-assistant-skillup
+114,Free Claude AI Course: Expense & Spend Insights Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-expense-spend-insights-assistant-skillup
+115,Free Claude AI Course: Sales & Revenue Forecasting Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-sales-revenue-forecasting-assistant-skillup
+116,Free Generative AI Fundamentals Course: Concepts & Use Cases,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-fundamentals-course-skillup
+117,Free AI in Education Course,Simplilearn SkillUp,https://www.simplilearn.com/ai-in-education-course-skillup
+118,Free Course: Generative AI in Finance,Simplilearn SkillUp,https://www.simplilearn.com/generative-ai-in-finance-course-skillup
+119,Free AI for Market Intelligence & Sales Prospecting Course,Simplilearn SkillUp,https://www.simplilearn.com/ai-market-intelligence-sales-prospecting-course-skillup
+120,Free Claude AI Course: Sales & Finance Decision Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-sales-finance-decision-assistant-skillup
+121,Free Claude AI Course: Financial Report Insights Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-financial-report-insights-assistant-skillup
+122,Free Claude AI Course: AI Product Strategy Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-product-strategy-assistant-skillup
+123,Free  AI Tool Landscape Course with Certificate,Simplilearn SkillUp,https://www.simplilearn.com/ai-tool-landscape-course-skillup
+124,Free Claude AI Course: Demand & Inventory Assistant,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-demand-inventory-assistant-skillup
+125,Free Claude AI Course: Talent Screening & Recruitment,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-talent-screening-recruitment-assistant-skillup
+126,Free Course: AI for Healthcare Clinical Insights,Simplilearn SkillUp,https://www.simplilearn.com/ai-for-healthcare-clinical-insights-documentation-skillup
+127,Free Claude AI Literacy Course,Simplilearn SkillUp,https://www.simplilearn.com/claude-ai-literacy-course-skillup
+128,Free Artificial Intelligence Course,Simplilearn SkillUp,https://www.simplilearn.com/learn-ai-basics-skillup
+129,Machine Learning Free Course,Simplilearn SkillUp,https://www.simplilearn.com/learn-machine-learning-basics-skillup
+130,"Understanding AI: Concepts, Ethics and Future Trends",Simplilearn SkillUp,https://www.simplilearn.com/free-ai-program-skillup
+131,Deep Learning for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-deep-learning-free-course-skillup
+132,Machine Learning for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/free-machine-learning-beginners-course-skillup
+133,Getting Started with Machine Learning Algorithms,Simplilearn SkillUp,https://www.simplilearn.com/learn-machine-learning-algorithms-free-course-skillup
+134,Innovating with Google Cloud Artificial Intelligence,Simplilearn SkillUp,https://www.simplilearn.com/free-google-cloud-ai-innovation-course-skillup
+135,Introduction to Machine Learning with R,Simplilearn SkillUp,https://www.simplilearn.com/free-course-on-machine-learning-with-r-skillup
+136,Introduction to Supervised & Unsupervised Machine Learning,Simplilearn SkillUp,https://www.simplilearn.com/introduction-to-supervised-unsupervised-learning-for-beginners-skillup
+137,Image Recognition using Machine Learning,Simplilearn SkillUp,https://www.simplilearn.com/free-image-recognition-course-skillup
+138,TensorFlow for Beginners,Simplilearn SkillUp,https://www.simplilearn.com/learn-tensorflow-basics-free-course-skillup
+139,Introduction to GAN,Simplilearn SkillUp,https://www.simplilearn.com/free-gan-course-skillup
+140,Beginners guide for Deep Learning,Simplilearn SkillUp,https://www.simplilearn.com/free-deep-learning-program-skillup
+141,Introduction to Deep Learning with Keras,Simplilearn SkillUp,https://www.simplilearn.com/learn-keras-for-beginners-free-course-skillup
+142,Introduction to Neural Network,Simplilearn SkillUp,https://www.simplilearn.com/neural-network-training-from-scratch-free-course-skillup
+143,AI ML Projects Course,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-ml-projects-course-skillup
+144,Get Started with Databricks for Machine Learning,Simplilearn SkillUp,https://www.simplilearn.com/databricks-for-machine-learning-course-skillup
+145,AI in Action: Unlock Productivity at Work,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-in-action-course-skillup
+146,Artificial Intelligence for Business,Simplilearn SkillUp,https://www.simplilearn.com/free-artificial-intelligence-for-business-course-skillup
+147,Master AI for Web App Development,Simplilearn SkillUp,https://www.simplilearn.com/free-ai-for-web-development-course-skillup
+148,AI Foundation,Simplilearn SkillUp,https://www.simplilearn.com/ai-foundation-course-skillup
+149,Graph Machine Learning,Simplilearn SkillUp,https://www.simplilearn.com/graph-machine-learning-free-certification-course-skillup
+150,AI Applications in Healthcare,Simplilearn SkillUp,https://www.simplilearn.com/ai-applications-in-healthcare-free-certification-course-skillup
+151,AI in Finance,Simplilearn SkillUp,https://www.simplilearn.com/ai-in-finance-free-certification-course-skillup
+152,AI for Everyone Course,Simplilearn SkillUp,https://www.simplilearn.com/ai-for-everyone-course-skillup
+153,AI capabilities and limitations,Anthropic,https://academy.claude.com/courses/ai-capabilities-and-limitations
+154,AI Fluency for builders,Anthropic,https://academy.claude.com/courses/ai-fluency-for-builders
+155,AI Fluency for creative work,Anthropic,https://academy.claude.com/courses/ai-fluency-for-creative-work
+156,AI Fluency for educators,Anthropic,https://academy.claude.com/courses/ai-fluency-for-educators
+157,AI Fluency for nonprofits,Anthropic,https://academy.claude.com/courses/ai-fluency-for-nonprofits
+158,AI Fluency for pK-12 Train the Trainer,Anthropic,https://academy.claude.com/courses/ai-fluency-for-pk-12-train-the-trainer
+159,AI Fluency for pK–12 educators,Anthropic,https://academy.claude.com/courses/ai-fluency-for-k-12-educators
+160,AI Fluency for small businesses,Anthropic,https://academy.claude.com/courses/ai-fluency-for-small-businesses
+161,AI Fluency for students,Anthropic,https://academy.claude.com/courses/ai-fluency-for-students
+162,AI Fluency: Framework and foundations,Anthropic,https://academy.claude.com/courses/ai-fluency-framework-foundations
+163,Building effective human-agent teams (beta),Anthropic,https://academy.claude.com/courses/building-effective-human-agent-teams
+164,Building with the Claude API,Anthropic,https://academy.claude.com/courses/building-with-the-claude-api
+165,Claude 101,Anthropic,https://academy.claude.com/courses/claude-101
+166,Claude Code 101,Anthropic,https://academy.claude.com/courses/claude-code-101
+167,Claude Code in action,Anthropic,https://academy.claude.com/courses/claude-code-in-action
+168,Claude Platform 101,Anthropic,https://academy.claude.com/courses/claude-platform-101
+169,Claude with Amazon Bedrock,Anthropic,https://academy.claude.com/courses/claude-with-amazon-bedrock
+170,Claude with Google Cloud's Vertex AI,Anthropic,https://academy.claude.com/courses/claude-with-google-cloud-s-vertex-ai
+171,Deploying Claude Enterprise with confidence: The five decisions that shape your rollout,Anthropic,https://academy.claude.com/courses/deploying-claude-enterprise-with-confidence
+172,Introduction to agent skills,Anthropic,https://academy.claude.com/courses/introduction-to-agent-skills
+173,Introduction to Claude Cowork,Anthropic,https://academy.claude.com/courses/introduction-to-claude-cowork
+174,Introduction to Claude Tag,Anthropic,https://academy.claude.com/courses/introduction-to-claude-tag
+175,Introduction to Model Context Protocol,Anthropic,https://academy.claude.com/courses/introduction-to-model-context-protocol
+176,Introduction to subagents,Anthropic,https://academy.claude.com/courses/introduction-to-subagents
+177,"Python for Data Science, AI & Development",Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0101EN+v1_Coursera
+178,Prompt Engineering for Everyone,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0117EN+v1
+179,Introduction to Agentic AI,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0146EN+v1
+180,Machine Learning with Python,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:BDU+ML0101EN+v4
+181,Build Your Own Chatbot,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMDeveloperSkillsNetwork+CB0101EN+v1
+182,Introducing AI,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+AI0105EN+v1
+183,Deep Learning Fundamentals,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:DeepLearning.TV+ML0115EN+v2.0
+184,Building AI Powered Chatbots Without Programming,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+CB0103EN+v1_Coursera
+185,Developing AI Applications with Python and Flask,Cognitive Class,https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+PY0224EN+v1_Coursera
+186,AI Foundations Knowledge Badge,SAS,https://learn.sas.com/course/view.php?id=8216
+187,AI Agents Course — Unit 1 Fundamentals certificate,Hugging Face,https://huggingface.co/learn/agents-course/unit0/introduction
+188,MCP Course — Unit 1 Fundamentals certificate,Hugging Face,https://huggingface.co/learn/mcp-course/unit0/introduction
+189,Artificial Intelligence Fundamentals,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/artificial-intelligence-fundamentals
+190,Generative AI Basics,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/generative-ai-basics
+191,Natural Language Processing Basics,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/natural-language-processing-basics
+192,Responsible Creation of Artificial Intelligence,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/responsible-creation-of-artificial-intelligence
+193,Generative AI for Images,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/image-generation-and-diffusion-models
+194,Generative AI for Organizations,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/generative-ai-for-organizations
+195,Large Language Models,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/large-language-models
+196,Change Management for AI Implementation,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/change-management-for-ai-implementation
+197,Prompt Fundamentals,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/prompt-fundamentals
+198,Model Fine-Tuning,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/model-fine-tuning
+199,Data Fundamentals for AI,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/data-fundamentals-for-ai
+200,AI Fluency Fundamentals,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/ai-fluency-fundamentals
+201,Becoming an Agentblazer,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/becoming-an-agentblazer-quick-look
+202,Agentforce Key Components: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-agents-quick-look
+203,Trusted Agentic AI,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/trusted-agentic-ai
+204,Critical Thinking and Decision-Making with Data and AI,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/critical-thinking-and-decision-making-with-data-and-ai
+205,Data Bias Recognition and Prevention in AI,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/data-bias-recognition-and-prevention
+206,Agentforce: Agent Planning,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-agent-planning
+207,The Agentforce Trust Layer,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/the-einstein-trust-layer
+208,Prompt Builder Basics,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/prompt-builder-basics
+209,Grounding an Agent with Data,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/grounding-an-agent-with-data
+210,Agentforce Testing Tools and Strategies,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-testing-tools-and-strategies
+211,Data + AI + CRM: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/ai-data-crm-quick-look
+212,Autonomous Agents,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/autonomous-agents
+213,Reasoning in Artificial Intelligence,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/reasoning-in-artificial-intelligence
+214,Introduction to AIforce,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/salesforce-headless-360-quick-look
+215,Secure and Trusted Headless Foundation,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/secure-and-trusted-headless-foundation
+216,Actionable Headless Use Cases,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/headless-360-use-cases-in-action
+217,Sales Cloud in Claude: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/salesforce-in-claude-quick-look
+218,Introduction to Agentforce,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/introduction-to-agentforce
+219,Agentforce Basics,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/einstein-copilot-basics
+220,New Agentforce Builder: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/new-agentforce-builder-quick-look
+221,Introduction to Agentforce Builder,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/introduction-to-agent-builder
+222,Setup with Agentforce: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-for-setup-quick-look
+223,Agentforce for Service,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-service-agent-quick-look
+224,Agentforce for Sales: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-sales-agents-quick-look
+225,Agentforce on the Salesforce Mobile App: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentforce-on-the-salesforce-mobile-app-quick-look
+226,AgentExchange: Quick Look,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/agentexchange-quick-look
+227,Programmatic Instructions in Agentforce,Salesforce Trailhead,https://trailhead.salesforce.com/content/learn/modules/programmatic-instructions-in-agentforce
+228,Leverage AI tools and resources for your business,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/leverage-ai-tools/
+229,Create business value with AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/create-business-value/
+230,Embrace responsible AI principles and practices,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/embrace-responsible-ai-principles-practices/
+231,Scale AI in your organization,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/scale-ai/
+232,Introduction to AI concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/
+233,Introduction to generative AI and agents,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/
+234,Introduction to natural language processing concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/introduction-language/
+235,Introduction to AI speech concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/introduction-ai-speech/
+236,Introduction to computer vision concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/introduction-computer-vision/
+237,Introduction to retrieval-augmented generation concepts,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/rag-fundamentals/
+238,Get ready to work with Microsoft Copilot,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/get-ready-work-microsoft-365-copilot/
+239,Unlock productivity and unleash creativity with AI powered chat,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/unlock-productivity-unleash-creativity-ai-powered-chat/
+240,Build effective presentations with AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/present-copilot-microsoft-powerpoint/
+241,Draft impactful documents using AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/draft-impactful-documents-using-ai/
+242,Make your meetings more productive with AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/make-your-meetings-more-productive-ai/
+243,Uncover new data insights with AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/uncover-new-data-insights-ai/
+244,From inbox to impact: Improve your email workflows with AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/from-inbox-impact-improve-your-email-workflows-ai/
+245,Explore AI basics,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/explore-ai-basics/
+246,Explore Generative AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/explore-generative-ai/
+247,Explore internet search and beyond,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/explore-internet-search-beyond/
+248,Explore responsible AI,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/responsible-ai/
+249,Get started with Microsoft Copilot,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/get-started-with-copilot/
+250,Boost your productivity with Microsoft Copilot,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/boost-productivity-with-copilot/
+251,Explore AI for All,Microsoft Learn,https://learn.microsoft.com/en-us/training/modules/explore-ai-for-all/
+252,Generative AI & Prompt Engineering Masterclass,NeuroLearn AI,https://neurolearnai.uk/courses/generative-ai-prompt-engineering
+253,Autonomous AI Agents & LLM Tool Orchestration,NeuroLearn AI,https://neurolearnai.uk/courses/ai-agents-llm-orchestration
+254,Machine Learning & Deep Learning Foundations,NeuroLearn AI,https://neurolearnai.uk/courses/deep-learning-transformers
+255,"Responsible AI, Alignment, Red-Teaming & Safety",NeuroLearn AI,https://neurolearnai.uk/courses/responsible-ai-safety
+256,Retrieval-Augmented Generation: Build AI with Your Own Data,NeuroLearn AI,https://neurolearnai.uk/courses/retrieval-augmented-generation
+257,"AI-Assisted Software Engineering: Build Faster, Think Independently",NeuroLearn AI,https://neurolearnai.uk/courses/ai-assisted-software-engineering
+258,Model Context Protocol: Advanced Topics,Anthropic,https://academy.claude.com/courses/model-context-protocol-advanced-topics
+259,Introduction to Generative AI,Google Skills,https://www.skills.google/course_templates/536
+260,Introduction to Large Language Models,Google Skills,https://www.skills.google/course_templates/539
+261,Responsible AI: Applying AI Principles with Google Cloud,Google Skills,https://www.skills.google/course_templates/388
+262,Innovating with Google Cloud Artificial Intelligence,Google Skills,https://www.skills.google/course_templates/946
+263,Security in the World of AI,Google Skills,https://www.skills.google/course_templates/1146
+264,Career Essentials in Generative AI by Microsoft and LinkedIn,Microsoft / LinkedIn Learning,https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
+265,AI for Organizational Leaders by Microsoft and LinkedIn,Microsoft / LinkedIn Learning,https://www.linkedin.com/learning/paths/ai-for-organizational-leaders-by-microsoft-and-linkedin
+266,Generative AI Fundamentals Accreditation,Databricks,https://customer-academy.databricks.com/learn/courses/1811/generative-ai-fundamentals-accreditation
+267,AI for Beginners,HP LIFE,https://www.life-global.org/course/391-ai-for-beginners
+268,AI for Business Professionals,HP LIFE,https://www.life-global.org/course/423-ai-for-business-professionals
+269,Critical Thinking in the AI Era,HP LIFE,https://www.life-global.org/course/439-critical-thinking-in-the-ai-era
+270,Strategic Planning in the AI Age,HP LIFE,https://www.life-global.org/course/447-strategic-planning-in-the-ai-age
+271,CS205: Building with Artificial Intelligence,Saylor University,https://learn.saylor.org/course/CS205
+272,CS207: Fundamentals of Machine Learning,Saylor University,https://learn.saylor.org/course/view.php?id=1267
+273,PRDV430: AI for Business Applications,Saylor University,https://learn.saylor.org/course/prdv430
+274,PRDV433: Enhancing Spreadsheets with Generative AI,Saylor University,https://learn.saylor.org/course/view.php?id=1312
+275,AI for Sales,HubSpot Academy,https://academy.hubspot.com/courses/ai-for-sales
+276,AI for Marketing,HubSpot Academy,https://academy.hubspot.com/courses/AI-for-Marketers
+277,Building an AI-Leading Organization,HubSpot Academy,https://academy.hubspot.com/courses/building-an-ai-leading-organization
+278,Introducing AI Fundamentals,SAP Learning,https://learning.sap.com/courses/introducing-ai-fundamentals
+279,Discovering Agentic AI,SAP Learning,https://learning.sap.com/courses/discovering-agentic-ai
+280,Putting AI Ethics into Practice at SAP,SAP Learning,https://learning.sap.com/courses/putting-ai-ethics-into-practice-at-sap
+281,Building Confidence in AI with SAP,SAP Learning,https://learning.sap.com/courses/building-confidence-in-ai-with-sap
+282,Discovering High-Value Opportunities for Agentic AI,SAP Learning,https://learning.sap.com/courses/discovering-high-value-opportunities-for-agentic-ai
+283,An introduction to artificial intelligence,The Open University / OpenLearn,https://www.open.edu/openlearn/education-development/ai-matters
+284,AI fluency,The Open University / OpenLearn,https://www.open.edu/openlearn/digital-computing/ai-fluency
+285,Understanding Generative AI,The Open University / OpenLearn,https://www.open.edu/openlearncreate/course/view.php?id=14054
+286,LLM Course — Chapter 3 certificate,Hugging Face,https://huggingface.co/learn/llm-course/en/chapter3/7
+287,Introduction to Generative AI,Santander Open Academy,https://www.santanderopenacademy.com/en/courses/generative-artificial-intelligence.html
+288,"Safe, Fair, Legal: How to Use AI Right",Santander Open Academy,https://www.santanderopenacademy.com/en/courses/safe-fair-legal-how-to-use-ai-right.html.html
+289,Automation to AI Agents: Foundation,Make Academy,https://academy.make.com/bundles/automation-to-ai-agents-foundation
+290,Automation to AI Agents: Advanced,Make Academy,https://academy.make.com/collections
+291,Become an AI-Powered Marketer,Semrush Academy,https://www.semrush.com/academy/courses/ai-for-marketing-course/
+292,AI PR Toolkit Crash Course,Semrush Academy,https://www.semrush.com/academy/courses/ai-pr-toolkit-crash-course/
+293,Work Smarter with AI,Canva Design School,https://www.canva.com/design-school/test/work-smarter-with-ai
+294,AI in the Classroom,Canva Design School,https://www.canva.com/design-school/test/ai-in-the-classroom
+295,AIAC AI Literacy Certificate,AI Assurance Council,https://aiassurancecouncil.org/ai-literacy/
+296,AI for Lawyers,Rulex,https://rulex.org/certified
+297,Quickstart: dcode Essentials,LangChain Academy,https://academy.langchain.com/courses/dcode-essentials
+298,Quickstart: Autonomous Agent Improvement with LangSmith Engine,LangChain Academy,https://academy.langchain.com/courses/langsmith-engine
+299,Foundation: Introduction to Deep Agents,LangChain Academy,https://academy.langchain.com/courses/foundation-introduction-to-deepagents
+300,Foundation: Monitoring Production Agents,LangChain Academy,https://academy.langchain.com/courses/production-monitoring
+301,Foundation: Building Reliable Agents,LangChain Academy,https://academy.langchain.com/courses/building-reliable-agents
+302,Quickstart: LangSmith Fleet,LangChain Academy,https://academy.langchain.com/courses/quickstart-agent-builder
+303,Foundation: Introduction to LangChain - Python,LangChain Academy,https://academy.langchain.com/courses/foundation-introduction-to-langchain-python
+304,Foundation: Introduction to LangSmith Deployment,LangChain Academy,https://academy.langchain.com/courses/langsmith-deployment
+305,Quickstart: LangSmith Essentials,LangChain Academy,https://academy.langchain.com/courses/quickstart-langsmith-essentials
+306,Quickstart: LangGraph Essentials - Python,LangChain Academy,https://academy.langchain.com/courses/langgraph-essentials-python
+307,Quickstart: LangChain Essentials - Python,LangChain Academy,https://academy.langchain.com/courses/langchain-essentials-python
+308,Project: Ambient Agents with LangGraph,LangChain Academy,https://academy.langchain.com/courses/ambient-agents
+309,Foundation: Introduction to Agent Observability & Evaluations,LangChain Academy,https://academy.langchain.com/courses/intro-to-langsmith
+310,Project: Deep Research with LangGraph,LangChain Academy,https://academy.langchain.com/courses/deep-research-with-langgraph
+311,Foundation: Introduction to LangGraph - Python,LangChain Academy,https://academy.langchain.com/courses/intro-to-langgraph
+312,AI Foundations,OpenAI Academy,https://academy.openai.com/public/courses/ai-foundations-dnq5w
+313,Applied AI Foundations,OpenAI Academy,https://academy.openai.com/public/courses/applied-ai-foundations-szsmv
+314,Agents and Workflows,OpenAI Academy,https://academy.openai.com/public/courses/agents-and-workflows-y0qoc
+315,Scope AI Solutions,OpenAI Academy,https://academy.openai.com/public/courses/scope-ai-solutions-kjplw
+316,Optimize AI Application Performance,OpenAI Academy,https://academy.openai.com/public/courses/optimize-ai-application-performance-1k50h
+317,Get Started with Codex,OpenAI Academy,https://academy.openai.com/public/courses/get-started-with-codex-jkhsq
+318,AI Leadership,OpenAI Academy,https://academy.openai.com/public/courses/ai-leadership-kaf7k
+319,AI for Educators,OpenAI Academy,https://academy.openai.com/public/courses/ai-for-educators-lc8j1
+320,AI for College Students,OpenAI Academy,https://academy.openai.com/public/courses/ai-for-college-students-gxgmr
+321,Intro to Programming,Kaggle Learn,https://www.kaggle.com/learn/intro-to-programming
+322,Python,Kaggle Learn,https://www.kaggle.com/learn/python
+323,Intro to Machine Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-machine-learning
+324,Pandas,Kaggle Learn,https://www.kaggle.com/learn/pandas
+325,Intermediate Machine Learning,Kaggle Learn,https://www.kaggle.com/learn/intermediate-machine-learning
+326,Data Visualization,Kaggle Learn,https://www.kaggle.com/learn/data-visualization
+327,Feature Engineering,Kaggle Learn,https://www.kaggle.com/learn/feature-engineering
+328,Intro to SQL,Kaggle Learn,https://www.kaggle.com/learn/intro-to-sql
+329,Advanced SQL,Kaggle Learn,https://www.kaggle.com/learn/advanced-sql
+330,Intro to Deep Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-deep-learning
+331,Computer Vision,Kaggle Learn,https://www.kaggle.com/learn/computer-vision
+332,Time Series,Kaggle Learn,https://www.kaggle.com/learn/time-series
+333,Data Cleaning,Kaggle Learn,https://www.kaggle.com/learn/data-cleaning
+334,Intro to AI Ethics,Kaggle Learn,https://www.kaggle.com/learn/intro-to-ai-ethics
+335,Geospatial Analysis,Kaggle Learn,https://www.kaggle.com/learn/geospatial-analysis
+336,Machine Learning Explainability,Kaggle Learn,https://www.kaggle.com/learn/machine-learning-explainability
+337,Intro to Game AI and Reinforcement Learning,Kaggle Learn,https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning
+338,Neo4j & Generative AI Certification,Neo4j GraphAcademy,https://graphacademy.neo4j.com/certifications/genai-certification
+339,AI Agents with MongoDB,MongoDB University,https://learn.mongodb.com/learn/course/ai-agents-with-mongodb/
+340,Vector Search Fundamentals,MongoDB University,https://learn.mongodb.com/courses/vector-search-fundamentals
+341,Building GenAI Apps,MongoDB University,https://learn.mongodb.com/learning-paths/building-genai-apps-learning-badge-path
+342,Conversational AI: Ensuring Compliance and Mitigating Risks (LFS120),Linux Foundation Education,https://training.linuxfoundation.org/training/conversational-ai-ensuring-compliance-and-mitigating-risks-lfs120/
+343,Generative AI Course and Free Exam,Alibaba Cloud Academy,https://www.alibabacloud.com/en/academy/aigc
+344,Getting Started with NVIDIA DSX Air,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A16115386
+345,Cable Validation Tool (CVT) Fundamentals,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15853439
+346,NVIDIA License System (NLS),NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139978
+347,NetQ Deployment and Installation,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15853441
+348,Introduction to Networking,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139833
+349,Cumulus Linux Essentials,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139853
+350,SONiC Essentials by NVIDIA,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139858
+351,AI for All: From Basics to GenAI Practice,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139849
+352,Base Command Manager Administration,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139856
+353,InfiniBand Essentials,NVIDIA,https://www.nvidia.com/en-us/training/academy/course-detail?id=course%3A15139827
